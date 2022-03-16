@@ -1,0 +1,8 @@
+D:\c#\CokluInterface\CokluInterface\bin\Debug\CokluInterface.exe.config
+D:\c#\CokluInterface\CokluInterface\bin\Debug\CokluInterface.exe
+D:\c#\CokluInterface\CokluInterface\bin\Debug\CokluInterface.pdb
+D:\c#\CokluInterface\CokluInterface\obj\Debug\CokluInterface.csproj.AssemblyReference.cache
+D:\c#\CokluInterface\CokluInterface\obj\Debug\CokluInterface.csproj.SuggestedBindingRedirects.cache
+D:\c#\CokluInterface\CokluInterface\obj\Debug\CokluInterface.csproj.CoreCompileInputs.cache
+D:\c#\CokluInterface\CokluInterface\obj\Debug\CokluInterface.exe
+D:\c#\CokluInterface\CokluInterface\obj\Debug\CokluInterface.pdb
