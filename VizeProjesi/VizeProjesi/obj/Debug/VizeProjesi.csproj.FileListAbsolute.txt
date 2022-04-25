@@ -1,0 +1,12 @@
+D:\c#\VizeProjesi\VizeProjesi\bin\Debug\VizeProjesi.exe.config
+D:\c#\VizeProjesi\VizeProjesi\bin\Debug\VizeProjesi.exe
+D:\c#\VizeProjesi\VizeProjesi\bin\Debug\VizeProjesi.pdb
+D:\c#\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.csproj.AssemblyReference.cache
+D:\c#\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.csproj.SuggestedBindingRedirects.cache
+D:\c#\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.Form1.resources
+D:\c#\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.Form2.resources
+D:\c#\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.Properties.Resources.resources
+D:\c#\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.csproj.GenerateResource.cache
+D:\c#\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.csproj.CoreCompileInputs.cache
+D:\c#\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.exe
+D:\c#\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.pdb
