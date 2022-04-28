@@ -1,0 +1,11 @@
+D:\c#\Kronometre\Kronometre\bin\Debug\Kronometre.exe.config
+D:\c#\Kronometre\Kronometre\bin\Debug\Kronometre.exe
+D:\c#\Kronometre\Kronometre\bin\Debug\Kronometre.pdb
+D:\c#\Kronometre\Kronometre\obj\Debug\Kronometre.csproj.AssemblyReference.cache
+D:\c#\Kronometre\Kronometre\obj\Debug\Kronometre.csproj.SuggestedBindingRedirects.cache
+D:\c#\Kronometre\Kronometre\obj\Debug\Kronometre.Form1.resources
+D:\c#\Kronometre\Kronometre\obj\Debug\Kronometre.Properties.Resources.resources
+D:\c#\Kronometre\Kronometre\obj\Debug\Kronometre.csproj.GenerateResource.cache
+D:\c#\Kronometre\Kronometre\obj\Debug\Kronometre.csproj.CoreCompileInputs.cache
+D:\c#\Kronometre\Kronometre\obj\Debug\Kronometre.exe
+D:\c#\Kronometre\Kronometre\obj\Debug\Kronometre.pdb
