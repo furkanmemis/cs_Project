@@ -1,0 +1,11 @@
+D:\c#\Alarm\Alarm\bin\Debug\Alarm.exe.config
+D:\c#\Alarm\Alarm\bin\Debug\Alarm.exe
+D:\c#\Alarm\Alarm\bin\Debug\Alarm.pdb
+D:\c#\Alarm\Alarm\obj\Debug\Alarm.csproj.SuggestedBindingRedirects.cache
+D:\c#\Alarm\Alarm\obj\Debug\Alarm.Alarm.resources
+D:\c#\Alarm\Alarm\obj\Debug\Alarm.Properties.Resources.resources
+D:\c#\Alarm\Alarm\obj\Debug\Alarm.csproj.GenerateResource.cache
+D:\c#\Alarm\Alarm\obj\Debug\Alarm.csproj.CoreCompileInputs.cache
+D:\c#\Alarm\Alarm\obj\Debug\Alarm.exe
+D:\c#\Alarm\Alarm\obj\Debug\Alarm.pdb
+D:\c#\Alarm\Alarm\obj\Debug\Alarm.csproj.AssemblyReference.cache
